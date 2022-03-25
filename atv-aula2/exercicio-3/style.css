@@ -1,0 +1,44 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title{
+    text-align: center;
+}
+
+body {
+    background-color: #cfcaca;
+}
+
+.white {
+    background-color: white;
+    width: 50vh;
+    height: 500px;
+    border-style: dotted;
+    border-color: black;
+    border-width: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.dark-orange{
+    background-color: darkorange;
+    height: 100px;
+    width: 30%;
+}
+
+.green{
+    background-color: rgb(56, 182, 56);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin: 50px 0 0 50px;
+
+}
